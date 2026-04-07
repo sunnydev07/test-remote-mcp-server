@@ -19,9 +19,9 @@ A lightweight MCP server for tracking personal expenses, built with FastMCP, Pyt
 
 ## Project Structure
 
-- `/home/runner/work/test-remote-mcp-server/test-remote-mcp-server/main.py` – MCP server, tools, resource, and startup logic
-- `/home/runner/work/test-remote-mcp-server/test-remote-mcp-server/categories.json` – category/subcategory data source for the categories resource
-- `/home/runner/work/test-remote-mcp-server/test-remote-mcp-server/pyproject.toml` – project metadata and dependencies
+- `main.py` – MCP server, tools, resource, and startup logic
+- `categories.json` – category/subcategory data source for the categories resource
+- `pyproject.toml` – project metadata and dependencies
 
 ## Setup
 
